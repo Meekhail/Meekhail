@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Meekhail
-- 👀 I’m interested in digital marketing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on digital marketing
+- 👀 I’m interested in App Development 
+- 🌱 I’m currently learning ... Blockchain 
+- 💞️ I’m looking to collaborate on Blockchain Development 
 - 📫 How to reach me ...
 
 <!---
